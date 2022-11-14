@@ -1,2 +1,3 @@
 .DS_Store
-node_moduleDevelop
+node_module
+.env
