@@ -44,7 +44,7 @@ Please follow the instruction to install the app
 
 Run the app by using the command "npm start"
 
-Please see this short video for detail instruction: 
+Please see this short video for detail instruction: https://youtu.be/C6DgMo_nTL4
 
 <a name="usage"/>
 
