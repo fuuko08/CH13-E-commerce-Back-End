@@ -44,6 +44,8 @@ Please follow the instruction to install the app
 
 Run the app by using the command "npm start"
 
+Please see this short video for detail instruction: 
+
 <a name="usage"/>
 
 ## Usage
@@ -78,7 +80,7 @@ Selina Su
 
 ## Testing
 
-Please follow this command to run the test:
+Please follow this command to run the test: https://youtu.be/C6DgMo_nTL4
 
 "npm start"
 
